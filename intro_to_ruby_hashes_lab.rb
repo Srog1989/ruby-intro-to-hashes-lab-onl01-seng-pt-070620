@@ -3,6 +3,7 @@ def new_hash
 end
 
 def actor
+  my_actor={:name, "dwayne"
   
 
 end
